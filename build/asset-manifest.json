@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.249f61c9.css",
+    "main.js": "/static/js/main.12026669.js",
+    "static/js/787.202b8111.chunk.js": "/static/js/787.202b8111.chunk.js",
+    "static/media/creativity.gif": "/static/media/creativity.448c322265404e102948.gif",
+    "static/media/ingenuity.gif": "/static/media/ingenuity.00a4692167f4574c33ff.gif",
+    "static/media/template1.png": "/static/media/template1.89a0b7c4c7d63190c474.png",
+    "static/media/astuteness.gif": "/static/media/astuteness.07a54bfd958108d90d56.gif",
+    "static/media/coffee.png": "/static/media/coffee.883ed16302ceb2013a75.png",
+    "static/media/writingHand.png": "/static/media/writingHand.0e95a9c145ddec23b47a.png",
+    "static/media/estore.png": "/static/media/estore.9c5fed9dba42626490f3.png",
+    "static/media/template3.png": "/static/media/template3.6aa365e66fa40b682870.png",
+    "static/media/template2.png": "/static/media/template2.7b31d410da5095b6cd8b.png",
+    "static/media/photo.jpg": "/static/media/photo.817bd693d3684283a0e6.jpg",
+    "static/media/fashion.png": "/static/media/fashion.cfb012b6d657fb3ba3ee.png",
+    "static/media/softwaredevs.png": "/static/media/softwaredevs.2e07be24fb4e75f39129.png",
+    "static/media/home.png": "/static/media/home.c53f2465f55c23b49946.png",
+    "index.html": "/index.html",
+    "main.249f61c9.css.map": "/static/css/main.249f61c9.css.map",
+    "main.12026669.js.map": "/static/js/main.12026669.js.map",
+    "787.202b8111.chunk.js.map": "/static/js/787.202b8111.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.249f61c9.css",
+    "static/js/main.12026669.js"
+  ]
+}
